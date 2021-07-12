@@ -16,7 +16,7 @@ const Hero = () => (
       An undergraduate student in Northwest Missouri State University. Pursuing a Bachelor of science degree in computer science. Dependable, hard worker ready to learn and provide adequate service in both Frontend and Backend projects.
       </SectionText>
 
-      <Button onClick={() => window.location = 'https://google.com'}>Learn More</Button>
+      <Button onClick={() => window.location = 'https://www.linkedin.com/in/salim-adedeji-8b170017b/'}>Learn More</Button>
     </LeftSection>
   </Section>
 );
