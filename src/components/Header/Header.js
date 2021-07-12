@@ -34,15 +34,15 @@ const Header = () =>  (
     </Div2>
 
     <Div3>
-      <SocialIcons href="https://github.com">
+      <SocialIcons href="https://github.com/adedejisalim">
         <AiFillGithub size="3rem"/>
       </SocialIcons>
 
-      <SocialIcons href="https://linkedin.com">
+      <SocialIcons href="https://www.linkedin.com/in/salim-adedeji-8b170017b/">
         <AiFillLinkedin size="3rem"/>
       </SocialIcons>
 
-      <SocialIcons href="https://instagram.com">
+      <SocialIcons href="https://www.instagram.com/salimadedeji/">
         <AiFillInstagram size="3rem"/>
       </SocialIcons>
     </Div3>
